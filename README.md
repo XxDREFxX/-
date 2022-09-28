@@ -25,7 +25,7 @@
 # a = int(input("Cena:"))
 # b = a/1.23
 # print(a - b)
-# zad 6
+# zad 7
 # a = int(input("A:"))
 # b = int(input("B:"))
 # print(a%b)
